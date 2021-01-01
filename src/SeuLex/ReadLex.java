@@ -1,8 +1,6 @@
 package SeuLex;
 
 import java.io.*;
-import java.util.logging.Logger;
-
 
 public class ReadLex {
     /**
