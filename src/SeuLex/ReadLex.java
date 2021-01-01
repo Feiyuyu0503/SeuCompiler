@@ -10,6 +10,7 @@ public class ReadLex {
     public static void main(String[] args) throws IOException {
         Path path = Paths.get("src/SeuLex/minic.l");
         List<String> lines = Files.readAllLines(path);
+        //System.out.println("1");
         System.out.println(lines.get(0));
     }
 }
