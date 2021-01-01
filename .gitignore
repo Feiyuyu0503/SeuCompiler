@@ -1,1 +1,4 @@
 out/
+.idea/
+SeuCompiler.iml
+compiler.iml
