@@ -1,0 +1,24 @@
+﻿  seuyacc.cpp
+C:\Users\acer\source\repos\SeuYacc\SeuYacc\seuyacc.cpp(81,8): warning C4834: 放弃具有 "nodiscard" 属性的函数的返回值
+C:\Users\acer\source\repos\SeuYacc\SeuYacc\seuyacc.cpp(157,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\acer\source\repos\SeuYacc\SeuYacc\seuyacc.cpp(224,22): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\acer\source\repos\SeuYacc\SeuYacc\seuyacc.cpp(236,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\acer\source\repos\SeuYacc\SeuYacc\seuyacc.cpp(253,22): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\acer\source\repos\SeuYacc\SeuYacc\seuyacc.cpp(268,22): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\acer\source\repos\SeuYacc\SeuYacc\seuyacc.cpp(278,22): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\acer\source\repos\SeuYacc\SeuYacc\seuyacc.cpp(294,22): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\acer\source\repos\SeuYacc\SeuYacc\seuyacc.cpp(318,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\acer\source\repos\SeuYacc\SeuYacc\seuyacc.cpp(321,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\acer\source\repos\SeuYacc\SeuYacc\seuyacc.cpp(331,21): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\acer\source\repos\SeuYacc\SeuYacc\seuyacc.cpp(340,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\acer\source\repos\SeuYacc\SeuYacc\seuyacc.cpp(349,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\acer\source\repos\SeuYacc\SeuYacc\seuyacc.cpp(371,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\acer\source\repos\SeuYacc\SeuYacc\seuyacc.cpp(416,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\acer\source\repos\SeuYacc\SeuYacc\seuyacc.cpp(453,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\acer\source\repos\SeuYacc\SeuYacc\seuyacc.cpp(473,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\acer\source\repos\SeuYacc\SeuYacc\seuyacc.cpp(483,20): warning C4018: “<=”: 有符号/无符号不匹配
+C:\Users\acer\source\repos\SeuYacc\SeuYacc\seuyacc.cpp(835,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\acer\source\repos\SeuYacc\SeuYacc\seuyacc.cpp(985,25): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\acer\source\repos\SeuYacc\SeuYacc\seuyacc.cpp(1011,25): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\acer\source\repos\SeuYacc\SeuYacc\seuyacc.cpp(355): warning C4715: “findinsymboltable”: 不是所有的控件路径都返回值
+  SeuYacc.vcxproj -> C:\Users\acer\source\repos\SeuYacc\Debug\SeuYacc.exe
